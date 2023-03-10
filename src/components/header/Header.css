@@ -1,0 +1,12 @@
+
+a{
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 29px;
+
+    color: #000000;
+
+}
+.active{
+    color: #BD1D1D;
+}
