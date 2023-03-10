@@ -3,7 +3,7 @@ import "./MainPage.scss"
 const Menu = () => {
 const product  = (localStorage.getItem("product"))
 
-    console.log(product)
+
 
 
     return (
